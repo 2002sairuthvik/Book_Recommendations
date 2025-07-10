@@ -3,4 +3,6 @@ pandas
 numpy
 seaborn
 matplotlib
-scikit-surprise
+PyYAML
+streamlit
+-e .
