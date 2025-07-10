@@ -1,0 +1,1 @@
+from books_recommendations.exception.exception_handler import AppException
