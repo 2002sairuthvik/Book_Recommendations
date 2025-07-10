@@ -36,3 +36,9 @@ conda activate books
 ```bash
 pip install -r requirements.txt
 ```
+
+
+### Dataset acquired from kaggle : 
+```bash
+https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset
+```
